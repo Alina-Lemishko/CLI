@@ -1,0 +1,28 @@
+{
+  "name": "home-work-01",
+  "version": "1.0.0",
+  "description": "node-home-work-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Alina Lemishko",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "nodemon": "^2.0.19",
+    "shortid": "^2.2.16",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alina-Lemishko/CLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alina-Lemishko/CLI/issues"
+  },
+  "homepage": "https://github.com/Alina-Lemishko/CLI#readme"
+}
